@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "backend_user",
+    "password": "secure_password",
+    "database": "backend_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "backend_user",
+    "password": "secure_password",
+    "database": "backend_db_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "backend_user",
+    "password": "secure_password",
+    "database": "backend_db_prod",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
