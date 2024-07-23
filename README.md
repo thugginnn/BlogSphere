@@ -9,10 +9,6 @@ Blogsphere is a modern web platform designed to provide users with a seamless bl
 - **RESTful API**: Built with Express and Sequelize for easy integration and scalability.
 - **Error Handling**: Comprehensive error handling middleware for a robust application.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Acknowledgements
 
 Node.js: For the runtime environment.
